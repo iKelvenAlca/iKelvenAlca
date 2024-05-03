@@ -20,7 +20,7 @@ Este é um Novo GitHub, novos projetos ainda em desenvolvimento. Para projetos a
 
 -------------
 ## Minhas Tecnologias
-
+<p aling="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=35px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height=35px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height=35px />
@@ -32,6 +32,7 @@ Este é um Novo GitHub, novos projetos ainda em desenvolvimento. Para projetos a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=35px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height=35px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=35px/>
+</p>
 
 ------------
 <br>
