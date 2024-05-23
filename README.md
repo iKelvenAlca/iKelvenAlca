@@ -9,7 +9,7 @@
 
 🫡 Me nome é Kelven! <br>
 🎓 Estudante de Engenharia de Software <br>
-🏛️ Cursando Gestão Pública<br>
+🎲 Cursando CST em Ciência de Dados<br>
 🐍 Foco em Ciência de Dados e ML<br>
 🧑‍💻 Gosto de Programar em C#
 
