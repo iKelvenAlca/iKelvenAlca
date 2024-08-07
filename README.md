@@ -11,7 +11,7 @@
 🎓 Estudante de Engenharia de Software <br>
 🎲 Cursando CST em Ciência de Dados<br>
 🐍 Foco em Ciência de Dados e ML<br>
-🧑‍💻 Gosto de Programar em C#
+♨️ Gosto de Programar em Java
 
 -------------
 ## ALGUNS PROJETOS 🗂️
